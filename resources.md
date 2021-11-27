@@ -32,8 +32,7 @@ The following websites provide similar information to this website:
 
 ## Other Resources
 
-+ The Twitter feed for this site: [@gbrpolls](https://twitter.com/gbrpolls)
-+ The GitHub project for this site: [filipvanlaenen/british_polls](https://github.com/filipvanlaenen/british_polls)
++ The GitHub project for this site: [filipvanlaenen/british_polls_20170608](https://github.com/filipvanlaenen/british_polls_20170608)
 
 ## Sister Websites
 
@@ -59,8 +58,3 @@ The following websites provide similar information to this website:
 + [Slovenian Polls](https://filipvanlaenen.github.io/slovenian_polls/) and [Slovenian EP Polls](https://filipvanlaenen.github.io/slovenian_ep_polls/)
 + [Swedish Polls](https://filipvanlaenen.github.io/swedish_polls/) and [Swedish EP Polls](https://filipvanlaenen.github.io/swedish_ep_polls/)
 + [Walloon Polls](https://filipvanlaenen.github.io/walloon_polls/)
-
-## Previous Elections
-
-+ [8 June 2017](20170608/index.html)
-+ [12 December 2019](20191212/index.html)
